@@ -13,8 +13,3 @@ covering all categories — web, pwn, reverse engineering, crypto, forensics, an
 - `cheatsheets/` — reusable notes, commands, and payloads
 - `templates/` — writeup template
 - `assets/` — screenshots and supporting files
-
-## Note
-
-Writeups here cover retired machines, completed CTFs, and my own conceptual notes.
-No active-machine solutions or copyrighted course content are published.
