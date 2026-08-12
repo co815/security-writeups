@@ -1,2 +1,5 @@
 .DS_Store
 .gitattributes
+.obsidian/
+.obsidian/workspace.json
+.obsidian/cache
