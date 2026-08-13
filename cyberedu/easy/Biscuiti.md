@@ -23,7 +23,7 @@ In order to automate the process, we will use `tshark -r task.pcap -Y "http.requ
 ![](../../assets/biscuiti/biscuiti3.png)
 
 Concatenate each index in ascending order and we get a string in base64, decoding it we get the flag.
-## Flag / Root
+## Flag
 
 `ctf{ada00bfd44a1613c7ab93345970f9f601ca061ba961dbacfea0ebd01de3143f5}` 
 
