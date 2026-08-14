@@ -26,7 +26,7 @@ Check `flag.php`
 
 ![](../../assets/injector/injector4.png)
 
-Nothing shows up, could be because the `.php` file has tags that the HTML does not recognise and thhe output goes into the DOM of the page, check the source page.
+Nothing shows up, could be because the `.php` file has tags that the HTML does not recognise and the output goes into the DOM of the page, check the source page.
 
 ![](../../assets/injector/injector5.png)
 Voila
