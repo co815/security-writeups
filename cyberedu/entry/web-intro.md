@@ -19,7 +19,7 @@ After some research, I found out that this is a flask token not a jwt one, so fo
 
 ![](../../assets/web-intro/webintro2.png)
 
-As we can see, we've found the payload `{'logged_in': False}` and the secret key which the token was encoded with was `password`. Now we want to change the state of the variable `logged_in` from `False` to `True` and encode te token with the same secret key.
+As we can see, we've found the payload `{'logged_in': False}` and the secret key which the token was encoded with was `password`. Now we want to change the state of the variable `logged_in` from `False` to `True` and encode the token with the same secret key.
 
 ![](../../assets/web-intro/webintro3.png)
 
