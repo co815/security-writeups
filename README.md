@@ -13,3 +13,4 @@ covering all categories — web, pwn, reverse engineering, crypto, forensics, an
 - `cheatsheets/` — reusable notes, commands, and payloads
 - `templates/` — writeup template
 - `assets/` — screenshots and supporting files
+- `cyberedu/` - CyberEDU challanges
