@@ -13,7 +13,7 @@
 
 This one is straight forward, we just need to look at the snippet provided
 
-![](User%20Enumeration/assets/img1.png)
+![](assets/img1.png)
 
 ## Flag / Root
 
