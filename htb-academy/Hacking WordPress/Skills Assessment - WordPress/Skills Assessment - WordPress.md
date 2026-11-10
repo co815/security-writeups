@@ -108,7 +108,7 @@ If the filename of the `.txt` file is different, first do `ls /home/erika`, find
 ## Flag / Root
 
 1. `5.1.6`
-2. `twentynineteen
+2. `twentynineteen`
 3. `HTB{d1sabl3_d1r3ct0ry_l1st1ng!}`
 4. `Charlie Wiggins`
 5. `HTB{unauTh_d0wn10ad!}`
